@@ -1,0 +1,18 @@
+@font-face {
+    font-family: myDino;
+    src: url(fonts/tngan.ttf);
+}
+
+body{ 
+	background-color: azure; 
+}
+
+#myName{
+    color:yellow;
+    background-color: black;
+    width: 700px;
+    font-size: 100px;
+    padding: 20px;
+    text-align: center;
+    margin:100px auto;
+}
