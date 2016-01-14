@@ -1,17 +1,19 @@
 @font-face {
     font-family: myDino;
-    src: url(fonts/tngan.ttf);
+    src: url(fonts/DISCO1__.TTF);
 }
 
 body{ 
-	background-color: azure; 
+	background-color: azure;
+    background-image: url(images/groovy.gif);
 }
 
 #myName{
+    font-family: myDino;
     color:yellow;
-    background-color: black;
+    background-color: purple;
     width: 700px;
-    font-size: 100px;
+    font-size: 180px;
     padding: 20px;
     text-align: center;
     margin:100px auto;
